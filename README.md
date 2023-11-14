@@ -1,4 +1,4 @@
-# universal-gcp-file-controller Universal GCP Cloud Storage File Controller
+# Universal GCP Cloud Storage File Controller
 Simple and universal golang API for control your object file in cloud storage in google cloud platform.
 
 ## Appendix
